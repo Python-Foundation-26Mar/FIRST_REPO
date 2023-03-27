@@ -9,3 +9,4 @@
 ## - Push your changes to the remote repository.
 ## - Create a Pull Request . 
 This is my first project
+My name is Aisha, a graduate of a Bachelor's degree in Computer Science from Al-Jouf University.
