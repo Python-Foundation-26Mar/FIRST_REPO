@@ -1,0 +1,1 @@
+I'm Shahad Ali Aldawsari a fresh graduated student I studied Computer Scinece. My graduation project is a deep learning model which identifies person weight status (Normal, Overwieght or Obesity) from its image. Naw I'm working on myself and my skills to find ajob.
